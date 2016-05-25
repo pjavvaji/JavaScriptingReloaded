@@ -1,0 +1,14 @@
+body {
+  padding-top: 60px;
+}
+td {
+  color: red;
+}
+.btn-create {
+  float: right;
+  margin-bottom: 10px;
+}
+.noDataText {
+  text-align: center;
+  padding-top: 50px;
+}
