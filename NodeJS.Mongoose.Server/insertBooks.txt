@@ -1,0 +1,17 @@
+db.books.insert({
+    title: 'Refactoring the DOM',
+    author: 'Siva',
+    category: 'Technology'
+})
+
+db.books.insert({
+    title: 'IPhone 7 and pro',
+    author: 'Kumar',
+    category: 'Mobiles'
+})
+
+db.books.insert({
+    title: 'Say helo to you',
+    author: 'Siva',
+    category: 'NoTech'
+})
